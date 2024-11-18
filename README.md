@@ -52,7 +52,7 @@ Clone this repository:
 `git clone https://github.com/rdudchar/Todo-app.git`
 
 **Navigate to the project folder:**
-`cd museum-landing`
+`cd Todo-app`
 
 **Install dependencies:**
 `npm install`
